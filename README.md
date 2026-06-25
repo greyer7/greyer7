@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm greyer7
 
-<!--
-**greyer7/greyer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Backend Developer | Trainee  
+🌱 Currently learning backend development and building my first projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 Working on **Kidmarked** — my pet project
+- 🎯 Looking for my first job or internship as a Python Backend Developer
+- 📍 Ukraine
+
+---
+
+### 🛠️ Tech Stack
+- **Language:** Python
+- **Framework:** FastAPI
+- **Databases:** PostgreSQL, Redis
+- **Tools:** Docker, Git
+
+---
+
+### 📫 Contact Me
+- Telegram: [@greyez_7](https://t.me/greyez_7)
+- LinkedIn: *coming soon*
