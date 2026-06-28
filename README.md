@@ -22,4 +22,4 @@
 
 ### 📫 Contact Me
 - Telegram: [@greyez_7](https://t.me/greyez_7)
-- LinkedIn: *coming soon*
+- LinkedIn: [*coming soon*](https://www.linkedin.com/in/taras-borys-4809ab417/)
